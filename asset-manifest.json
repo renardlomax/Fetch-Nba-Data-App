@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Fetch-Nba-Data-App/static/css/main.7e2dcf64.chunk.css",
+    "main.js": "/Fetch-Nba-Data-App/static/js/main.bf3c9852.chunk.js",
+    "main.js.map": "/Fetch-Nba-Data-App/static/js/main.bf3c9852.chunk.js.map",
+    "runtime-main.js": "/Fetch-Nba-Data-App/static/js/runtime-main.10011636.js",
+    "runtime-main.js.map": "/Fetch-Nba-Data-App/static/js/runtime-main.10011636.js.map",
+    "static/css/2.800be05e.chunk.css": "/Fetch-Nba-Data-App/static/css/2.800be05e.chunk.css",
+    "static/js/2.141b3ca5.chunk.js": "/Fetch-Nba-Data-App/static/js/2.141b3ca5.chunk.js",
+    "static/js/2.141b3ca5.chunk.js.map": "/Fetch-Nba-Data-App/static/js/2.141b3ca5.chunk.js.map",
+    "static/js/3.ba67ef96.chunk.js": "/Fetch-Nba-Data-App/static/js/3.ba67ef96.chunk.js",
+    "static/js/3.ba67ef96.chunk.js.map": "/Fetch-Nba-Data-App/static/js/3.ba67ef96.chunk.js.map",
+    "index.html": "/Fetch-Nba-Data-App/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/Fetch-Nba-Data-App/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.7e2dcf64.chunk.css.map": "/Fetch-Nba-Data-App/static/css/main.7e2dcf64.chunk.css.map",
+    "static/js/2.141b3ca5.chunk.js.LICENSE.txt": "/Fetch-Nba-Data-App/static/js/2.141b3ca5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Fetch-Nba-Data-App/static/media/ad.051170ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10011636.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.141b3ca5.chunk.js",
+    "static/css/main.7e2dcf64.chunk.css",
+    "static/js/main.bf3c9852.chunk.js"
+  ]
+}
